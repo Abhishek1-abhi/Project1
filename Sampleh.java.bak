@@ -1,0 +1,15 @@
+class Sampleh
+{
+  static void ellipse()
+  {
+  final double a=3.142;
+         int p=5;
+		 int q=10;
+    double r=a*p*q;
+    System.out.println(r);
+    }
+    public static void main(String[] args)
+    {
+    ellipse();
+	}
+}

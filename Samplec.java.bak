@@ -1,0 +1,13 @@
+class Samplec
+{
+   static void Square()
+   {
+      int a=10;
+      int r=a*a;
+      System.out.println(r);
+      }
+      public static void main(String[] args)
+      {
+      Square();
+      }
+      }
